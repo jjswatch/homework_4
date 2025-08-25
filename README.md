@@ -76,7 +76,7 @@ Manager<br>
 <h2>📸 系統介面</h2>
 
 <h3>LoginFrame<br>
-![Login](images/Login.png)
+![Login](https://github.com/jjswatch/homework_4/blob/main/images/Login.png)<br>
 SignupFrame<br>
 MainFrame<br>
 - ManagerPanel<br>
