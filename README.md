@@ -76,6 +76,7 @@ Manager<br>
 <h2>📸 系統介面</h2>
 
 <h3>LoginFrame<br>
+![Login](images/Login.png)
 SignupFrame<br>
 MainFrame<br>
 - ManagerPanel<br>
